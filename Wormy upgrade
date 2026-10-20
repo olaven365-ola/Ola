@@ -1,4 +1,4 @@
-Theme: collect red treassures, 
+Theme: collect red treassures, Screen Title: Red wormy treassures.
 Breif introduction how to play my game: The first thing you do is use your mouse to move your wrom from getting hit by the pink blocks.
 You have to try avoding getting hit by the blocks or else you will lose points,
 codes to move your worm 8, 1, 3 pygame.draw.line(5)
@@ -7,5 +7,10 @@ Video: https://youtu.be/fQqlPbQFkRY?si=scrcNa1E_02gSGkZ
 The challenging part about this assignment was to move my worm from side to side.
 As long as you don't get hit by the blocks you will continue to get so many points and win the game. 
 Codes: to avoiding the bad blocks is 4, 9, #shift to verfied the codes is to click on #ctrl and 7,
-You also have 5 rounds to win this game and you have 10 seconds to avoid the bad blocks.
+You also have 5 levels to win this game and you have 10 seconds to avoid the bad blocks.
 Once you collect all of the red treassures you win the game and get a special prize at the end.
+Background music: Calming music  
+Start menu: white black finish line with green box and blue worm. 
+Enemy movement is: Adding fire to the bad blocks so you lose points. 
+High scores to win the game is 10/100.
+To have power ups Click on your codes using: (10) (2) (6) Then to double up your power ups you can also click on $ and press G to have more control on your powers in the game.
